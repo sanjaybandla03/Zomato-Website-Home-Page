@@ -1,0 +1,224 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.main{
+    background-color: dodgerblue;
+    height:100%;
+    display:flex;
+}
+.real-main{
+    padding-top:70px;
+    margin-left:500px;
+}
+.main1{
+    background-color:#fff;
+    height:620px;
+    width:450px;
+    border-radius: 15px;
+}
+.part1 h2{
+    padding-top:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:28px;
+}
+.part2{
+    margin-left:35px;
+    margin-top:30px;
+}
+.part2 input{
+    width:380px;
+    height:45px;
+    padding-left:20px;
+}
+.part2 input::placeholder{
+    font-size:16px;
+    padding-left:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.part3{
+    margin-left:35px;
+    margin-top:30px;
+}
+.part3 input{
+    width:380px;
+    height:45px;
+    padding-left:20px;
+    position: absolute;
+}
+.part3 i{
+    position: relative;
+    left:345px;
+    top:13px;
+    cursor: pointer;
+}
+.part3 input::placeholder{
+    font-size:16px;
+    padding-left:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.part4{
+    margin-top:45px;
+    margin-left:160px;
+}
+.part4 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:dodgerblue;
+    font-weight: bold;
+    cursor: pointer;
+}
+.part5{
+    margin-left:35px;
+    margin-top:25px;
+}
+.part5 button{
+    width:380px;
+    height:45px;
+    border-radius: 5px;
+    border:none;
+    color:#fff;
+    background-color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    cursor: pointer;
+}
+.part6{
+    margin-left:120px;
+    margin-top:13px;
+    cursor: pointer;
+}
+.part6 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+}
+.part6 span{
+    margin-left:5px;
+    color:dodgerblue;
+}
+.part7{
+    display:flex;
+}
+.part7-1{
+    margin-left:35px;
+    margin-top:38px;
+}
+.part7-1 hr{
+    width:160px;
+    color:lightgrey
+}
+.part7-2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:20px;
+    padding-top:30px;
+}
+.part7-3{
+    margin-left:23px;
+    margin-top:38px;
+    margin-right:20px;
+}
+.part7-3 hr{
+    width:160px;
+    color:lightgrey;
+}
+.part8{
+    margin-left:35px;
+    margin-top:35px;
+}
+.part8 button{
+    width:380px;
+    height:45px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#fff;
+    background-color:rgb(22, 126, 230);
+    border:none;
+    border-radius:5px;
+    cursor: pointer;
+}
+.part8 i{
+    position: relative;
+    left:15px;
+    top:7px;
+    font-size:30px;
+    color:#fff;
+}
+.part9{
+    margin-left:35px;
+    margin-top:39px;
+}
+.part9 button{
+    width:380px;
+    height:45px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gray;
+    background-color:#fff;
+    border-radius:5px;
+    border-color:darkgrey;
+    cursor: pointer;
+}
+.part9 i{
+    position: relative;
+    left:15px;
+    top:7px;
+    font-size:30px;
+    color:orangered;
+}
+.real-main1{
+    margin-left:40px;
+    margin-top:40px;
+}
+.main2{
+    background-color:#fff;
+    height:660px;
+    width:450px;
+    border-radius: 15px;
+}
+.part10 h2{
+    padding-top:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:28px;
+}
+.part11{
+    margin-left:35px;
+    margin-top:30px;
+}
+.part11 input{
+    width:380px;
+    height:45px;
+    padding-left:20px;
+}
+.part11 input::placeholder{
+    font-size:16px;
+    padding-left:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.part12{
+    margin-left:35px;
+    margin-top:30px;
+}
+.part12 input{
+    width:380px;
+    height:45px;
+    padding-left:20px;
+}
+.part12 input::placeholder{
+    font-size:16px;
+    padding-left:0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.part13{
+    margin-left:35px;
+    margin-top:60px;
+}
+.part13 button{
+    width:380px;
+    height:45px;
+    border-radius: 5px;
+    border:none;
+    color:#fff;
+    background-color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    cursor: pointer;
+}
